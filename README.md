@@ -65,23 +65,40 @@ Status: ⏳ Planned
 
 
 ---
-
 # Projects
 
 
 ## Project 01 - Purchase Request Management
 
-Status:
 
-🚧 Planning
+A SAP S/4HANA RAP-based business application built with modern SAP development technologies.
 
 
-Technology:
+Repository:
+
+[s4hana-rap-purchase-request-management](https://github.com/Kuang-Feifan/s4hana-rap-purchase-request-management)
+
+
+Technology Stack:
 
 - ABAP Cloud
-- CDS
+- CDS View Entity
 - RAP
+- OData V4
 - Fiori Elements
+
+
+Current Status:
+
+🚧 Data Modeling Phase
+
+
+Main Features:
+
+- Purchase Request Creation
+- Purchase Request Item Management
+- Approval Process
+- Future AI Enhancement
 
 
 ---
